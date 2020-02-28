@@ -4,7 +4,7 @@
 * [Java](./Java/tutorials.md)
 
 ### 📝 Blogs
-* [Java](./blogs.md)
+* [Blogs](./blogs.md)
 
 ### 如果您想協助新增修改 🙋‍♂️🙋‍♀️
 歡迎直接 fork 後發送 PR 貢獻。
