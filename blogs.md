@@ -1,3 +1,5 @@
 * [DK大](https://blog.gslin.org/)
+* [保哥](https://blog.miniasp.com/)
+* [黑暗執行緒](https://blog.darkthread.net/)
 * [kucw](https://kucw.github.io/)
 * [ihower](https://ihower.tw/blog/)
