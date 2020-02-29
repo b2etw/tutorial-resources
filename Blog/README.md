@@ -1,5 +1,7 @@
 * [DK大](https://blog.gslin.org/)
 * [保哥](https://blog.miniasp.com/)
 * [黑暗執行緒](https://blog.darkthread.net/)
+* [LINE Engineering Blog](https://engineering.linecorp.com/zh-hant/blog/)
+* [17 Media Tech Blog](https://medium.com/17media-tech)
 * [kucw](https://kucw.github.io/)
 * [ihower](https://ihower.tw/blog/)
