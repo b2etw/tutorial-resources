@@ -6,3 +6,4 @@
 * [kucw](https://kucw.github.io/)
 * [ihower](https://ihower.tw/blog/)
 * [niclin](https://blog.niclin.tw/)
+* [G.T. Wang](https://blog.gtwang.org/)
