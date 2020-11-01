@@ -12,3 +12,4 @@
 * [Tass](https://medium.com/@tasslin)
 * [OneJar](https://www.onejar99.com/)
 * [MagicLen](https://magiclen.org/)
+* [chikuwa](https://medium.com/chikuwa-tech-study/tagged/spring-boot)
